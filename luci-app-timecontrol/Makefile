@@ -9,7 +9,7 @@ LUCI_TITLE:=LuCI support for Time Control
 LUCI_PKGARCH:=all
 LUCI_DEPENDS:=+luci-compat
 PKG_VERSION:=1.1
-PKG_RELEASE:=1-08082021
+PKG_RELEASE:=20210808
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
